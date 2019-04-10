@@ -1,4 +1,8 @@
-# hello-world
-my first repository in a GitHub
-This was first step, but now (i think so) second.
-I use this repo as a practise in github.
+# grow how specialist list:
+
+##### AppSec team/person
+##### Security Champion
+##### Secure coding standards
+##### Threat Models
+##### OWASP contributors
+##### Secure code reviews
